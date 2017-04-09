@@ -10,7 +10,7 @@
 Each output frame that Gif Twist creates is a combination of all input frames offset by time.
 
 <p style="text-align:center">
-  <img src="https://github.com/davidhampgonsalves/gif-twist/blob/master/examples/m&m.gif" width=1200px>
+  <img src="https://github.com/davidhampgonsalves/gif-twist/blob/master/examples/example.gif" width=1200px>
 </p>
 
 # Warnings
